@@ -1,0 +1,1 @@
+{"version":3,"sources":["todoList.css"],"names":[],"mappings":"AAAA,OACE,wBACF,CAEA,UACE,qBACF","file":"main.7c7d0065.chunk.css","sourcesContent":[".table {\r\n  border-collapse: collapse;\r\n}\r\n\r\n.table td{\r\n  border: 1px solid black;\r\n}"]}
